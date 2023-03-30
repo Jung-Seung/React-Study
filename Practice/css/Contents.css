@@ -1,0 +1,19 @@
+
+#contents{
+    width:1200px;
+    height:200px;
+    background-color:darkgreen;
+}
+#contents>#cont1{
+    float:left;
+    width:480px;
+    height:200px;
+    background-color:darkcyan;
+}
+#contents>#cont2{
+    float:left;
+    
+}
+#contents>#cont3{
+
+}

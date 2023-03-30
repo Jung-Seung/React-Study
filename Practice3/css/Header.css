@@ -1,0 +1,50 @@
+#header{
+    width:1200px;
+    height:100px;
+    background-color:aquamarine;
+}
+#header>#logo{
+    float:left;
+    width:200px;
+    height:100px;
+    background-color:cornflowerblue;
+}
+#header>#logo>a{
+    position:relative;
+    top:25px;
+}
+#header>#nav{
+    float:left;
+    width:1000px;
+    height:100px;
+    background-color:coral;
+}
+#gnb{
+    float:right;
+    position:relative;
+    right:30px;
+    top:30px;
+}
+#gnb>li{
+    float:left;
+}
+#gnb>li>a{
+    display:block;
+    width:150px;
+    height:50px;
+    background-color:indianred;
+    color:#333333;
+    text-align:center;
+    padding-top:10px;
+    box-sizing:border-box;
+}
+#lnb>li>a{
+    display:block;
+    width:150px;
+    height:50px;
+    background-color:ivory;
+    color:#333333;
+    text-align:center;
+    padding-top:10px;
+    box-sizing:border-box;
+}
