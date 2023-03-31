@@ -1,0 +1,33 @@
+
+#movie{
+    width:400px;
+    height:200px;
+    background-color: aquamarine;
+    margin:0 auto;
+    margin-bottom: 20px;
+}
+#movie>#movie-img{
+    float:left;
+    width:200px;
+    height:200px;
+    background-color: burlywood;
+}
+#movie-img>img{
+    width:100%;
+    height:100%;
+}
+#movie>#movie-desc{
+    float:left;
+    width:200px;
+    height:200px;
+    background-color: brown;
+}
+#movie>#movie-desc>div:first-child{
+    background-color: cadetblue;
+}
+#movie>#movie-desc>div:nth-child(2){
+    background-color: chartreuse;
+}
+#movie>#movie-desc>div:nth-child(3){
+    background-color: chocolate;
+}

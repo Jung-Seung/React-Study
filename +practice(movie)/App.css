@@ -1,0 +1,10 @@
+.App {
+  width:600px;
+  /* height:400px; */
+  height:auto;
+  background-color: aqua;
+  margin:0 auto;
+  padding-top:40px;
+  box-sizing: border-box;
+}
+
