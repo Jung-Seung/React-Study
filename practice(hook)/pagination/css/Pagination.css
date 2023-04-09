@@ -1,0 +1,19 @@
+#pagination{
+    width:600px;
+    height:100px;
+    background-color:aqua;
+    margin:0 auto;
+}
+#page{
+    display:inline-block;
+    width:30px;
+    height:30px;
+    text-align:center;
+    color:#333;
+    padding-top:7px;
+    box-sizing:border-box;
+    border:1px solid;
+    margin:5px;
+    background-color:aliceblue;
+    cursor:pointer;
+}
